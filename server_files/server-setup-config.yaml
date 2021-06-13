@@ -4,10 +4,10 @@ _specver: 2
 # modpack related settings, changes the supposed to change the visual appearance of the launcher
 modpack:
     # Name of the mod pack, that is displayed in various places where it fits
-    name: Enigmatica 7
+    name: MODPACK_NAME_WITH_SPACE
 
     # Description
-    description: Play with new mods and old favorites in Enigmatica 7 for Minecraft 1.17!
+    description: Play with new mods and old favorites in MODPACK_NAME_WITH_SPACE for Minecraft 1.17!
 
 # settings regarding the installation of the modpack
 install:

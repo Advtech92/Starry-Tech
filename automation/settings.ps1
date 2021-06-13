@@ -22,11 +22,11 @@ $CURSEFORGE_PROJECT_ID = 000000
 #  MAIN MODPACK SETTINGS
 # =====================================================================//
 
-# This is the modpack name as seen in it's CurseForge url: https://www.curseforge.com/minecraft/modpacks/[Enigmatica7]
-$MODPACK_NAME = "Enigmatica7"
+# This is the modpack name as seen in it's CurseForge url: https://www.curseforge.com/minecraft/modpacks/[MODPACK_NAME_WITHOUT_SPACE]
+$MODPACK_NAME = "MODPACK_NAME_WITHOUT_SPACE"
 
 # Name of the Modpack in the ZIP File
-$CLIENT_NAME = "Enigmatica7"
+$CLIENT_NAME = "MODPACK_NAME_WITHOUT_SPACE"
 
 # Version Of The Modpack
 $MODPACK_VERSION = "0.1.0"
@@ -223,7 +223,7 @@ $CLIENT_ZIP_NAME = "$CLIENT_NAME-$MODPACK_VERSION"
 $LAST_MODPACK_ZIP_NAME = "$CLIENT_NAME-$LAST_MODPACK_VERSION"
 
 # Default: "$CLIENT_NAME $MODPACK_VERSION"
-$CLIENT_FILE_DISPLAY_NAME = "Enigmatica 7 $MODPACK_VERSION"
+$CLIENT_FILE_DISPLAY_NAME = "MODPACK_NAME_WITH_SPACE $MODPACK_VERSION"
 
 # Can be "markdown", "text" or "html"
 # Default: $CLIENT_CHANGELOG_TYPE
@@ -241,7 +241,7 @@ $SERVER_RELEASE_TYPE = $CLIENT_RELEASE_TYPE
 $SERVER_ZIP_NAME = "$CLIENT_NAME`Server-$MODPACK_VERSION"
 
 # Default: $SERVER_FILENAME
-$SERVER_FILE_DISPLAY_NAME = "Enigmatica 7 Server $MODPACK_VERSION"
+$SERVER_FILE_DISPLAY_NAME = "MODPACK_NAME_WITH_SPACE Server $MODPACK_VERSION"
 
 # Path to the ModListCreators output file
 $ModlistPath = "$InstanceRoot/changelogs/modlist_$MODPACK_VERSION.md"
