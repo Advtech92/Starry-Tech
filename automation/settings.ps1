@@ -142,6 +142,9 @@ $CONFIGS_TO_REMOVE_FROM_CLIENT_FILES = @(
 	"gravestone-client.toml"
 )
 
+# Accepts directories
+$REMOVE_FROM_CLIENT_FILES = @("local/ftbutilities", "local/ftbchunks/data", "local/ftbultimine", "local/ftbultimine-client.snbt")
+
 #=====================================================================//
 #  SERVER FILE SETTINGS
 #=====================================================================//

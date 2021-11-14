@@ -2,49 +2,31 @@
 #### Minecraft-Forge Server install/launcher script
 #### Linux Version
 ####
-#### Created by: Dijkstra
-#### Mascot: Ordinator
-#### (Poorly) Edited by: NillerMedDild 
-####
-#### Originally created for use in "All The Mods" modpacks, and since then modified for 1.14+
-#### NO OFFICIAL AFFILIATION WITH MOJANG OR FORGE
-####
 #### This script will fetch the appropriate forge installer
 #### and run it to install forge AND fetch Minecraft (from Mojang)
 #### If Forge and Minecraft are already installed it will skip
 #### download/install and launch server directly (with
 #### auto-restart-after-crash logic as well)
 ####
-#### Make sure this is running as BASH
 #### You might need to chmod +x before executing
 ####
 #### IF THERE ARE ANY ISSUES
-#### Please make a report on the Enigmatica4 github:
-#### https://github.com/NillerMedDild/Enigmatica4/issues
+#### Please make a report on the most recent Enigmatica version's github:
+#### https://github.com/NillerMedDild
 #### with the contents of [serverstart.log] and [installer.log]
 ####
+#### Created by: Dijkstra
+#### Mascot: Ordinator
+#### Maintained by: NillerMedDild 
+####
+#### NO OFFICIAL AFFILIATION WITH MOJANG OR FORGE
 ####
 
-#For Server Owners
-
-	
-#
-#
-#
-#
-#
-#
-#
-# Internal scripty stuff from here on out
-# No lines intended to be edited past here
-#
-#
-#
-#
-#
-# Make sure users aren't trying to run script via sh directly (won't work)
-
-powershell $PWD/remove-client-mods.ps1
+if test -f $PWD/remove-client-mods.ps1; then
+	powershell $PWD/remove-client-mods.ps1 >/dev/null
+elif test -f remove-client-mods.ps1; then
+	powershell remove-client-mods.ps1 >/dev/null
+fi
 
 unameOut="$(uname -s)"
 case "${unameOut}" in
@@ -74,7 +56,7 @@ install_server(){
 		fi
 	else
 		if [ "${FORGEURL}" = "DISABLE" ]; then
-			export URL="https://files.minecraftforge.net/maven/net/minecraftforge/forge/${MCVER}-${FORGEVER}/forge-${MCVER}-${FORGEVER}-installer.jar"
+			export URL="https://maven.minecraftforge.net/net/minecraftforge/forge/${MCVER}-${FORGEVER}/forge-${MCVER}-${FORGEVER}-installer.jar"
 		else
 			export URL="${FORGEURL}"
 		fi
@@ -157,31 +139,6 @@ check_dir(){
 	fi
 }
 
-# routine for ping inet connectivity
-check_connection(){
-	if [ ${IGNORE_OFFLINE} -eq 1 ]; then
-		echo "WARN: Internet connectivity checking is disabled" >>serverstart.log 2>&1
-		echo "Skipping internet connectivity check"
-	else
-		if ping -c 1 8.8.8.8 >> /dev/null 2>&1; then
-			echo "INFO: Ping to Google DNS successfull" >>serverstart.log 2>&1
-			echo "Ping to Google DNS successfull"
-		else
-			echo "ERROR: Ping to Google DNS failed. No internet access?" >>serverstart.log 2>&1
-			echo "Ping to Google DNS failed. No internet access?"
-		fi
-
-		if ping -c 1 4.2.2.1 >> /dev/null 2>&1; then
-			echo "INFO: Ping to L4 successfull" >>serverstart.log 2>&1
-			echo "Ping to L4 successfull"
-		else
-			echo "ERROR: Ping to L4 failed. No internet access?"  >>serverstart.log 2>&1
-			echo "Ping to L4 failed. No internet access?"
-			exit 0
-		fi
-	fi
-}
-
 # routine to make sure necessary binaries are found
 check_binaries(){
 	if [ ! -f ${FORGE_JAR} ] ; then
@@ -219,13 +176,11 @@ eula(){
 		echo "Could not find eula.txt starting server to generate it"
 		start_server
 		echo ""
-		echo "Closing to give user a change to accept the eula"
-		exit 0
+		read -p "Press any key to continue when you've accepted the EULA. Press CTRL+C to exit."
 	else
 		if grep -Fxq "eula=false" eula.txt; then
 			echo "Could not find 'eula=true' in 'eula.txt'"
-			echo "Closing to give user a change to accept the eula"
-			exit 0
+			read -p "Press any key to continue when you've accepted the EULA. Press CTRL+C to exit."
 		fi
 	fi
 }

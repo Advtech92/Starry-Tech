@@ -111,6 +111,14 @@ function Remove-BlacklistedFiles {
                 Write-Host "Removing config $config from client files"
                 7z d "$InstanceRoot/$CLIENT_ZIP_NAME.zip" "overrides/config/$config*" | Out-Null
             }
+
+            foreach ($folder in $REMOVE_FROM_CLIENT_FILES) {
+                Write-Host "Removing folder $folder from client files"
+                7z d "$InstanceRoot/$CLIENT_ZIP_NAME.zip" "overrides/$folder*" -r | Out-Null
+            } 
+
+            # Remove all .bak files
+            7z d "$InstanceRoot/$CLIENT_ZIP_NAME.zip" "*.bak" -r | Out-Null
         }
     }
 }
@@ -148,6 +156,11 @@ function New-Changelog {
 
 function Push-ClientFiles {
     if ($ENABLE_MODPACK_UPLOADER_MODULE) {
+
+        if ($ENABLE_CURSE_CLIENT_MODULE -eq $false) {
+            Remove-BlacklistedFiles
+        }
+
         $CLIENT_METADATA = 
         "{
         'changelog': `'$CLIENT_CHANGELOG`',
@@ -172,6 +185,8 @@ function Push-ClientFiles {
         $clientFileReturnId = $response.id
 
         if (-not $response.id) {
+            Write-Host "Failed to upload client files: $response" -ForegroundColor Red
+            pause
             throw "Failed to upload client files: $response"
         }
         else {
@@ -287,10 +302,10 @@ function New-GitHubRelease {
         Write-Host 
     
         Invoke-RestMethod -Headers $Headers -Uri $Uri -Body $Body -Method Post
-		$currentLocation = Get-Location
-		Set-Location $InstanceRoot
+        $currentLocation = Get-Location
+        Set-Location $InstanceRoot
         Start-Process Powershell.exe -Argument "-NoProfile -Command github_changelog_generator --since-tag $CHANGES_SINCE_VERSION"
-		Set-Location $currentLocation
+        Set-Location $currentLocation
     }
 }
 
