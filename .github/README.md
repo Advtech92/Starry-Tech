@@ -4,26 +4,14 @@ This is the official repository and issue-tracker for the modpack MODPACK_NAME_W
 
 ### Table of Contents
 
--   [Testing](#testing)
 -   [Setup](#setup)
-    -   [MultiMC (Windows/Mac/Linux)](#multimc-linux--windows--mac)
     -   [CurseForge App (Windows/Mac)](#curseforge-app-windows--mac)
+    -   [MultiMC (Windows/Mac/Linux)](#multimc-linux--windows--mac)
+-   [Testing](#testing)
 -   [Server Automation](#server-automation)
--   [Server Automation with Docker](#server-automation-with-docker)
 -   [Links](#links)
 
 <hr></hr>
-
-## Testing
-
-If you would like to help test the modpack, you're very welcome to do so.
-The best way you can test is by playing the modpack, reporting bugs and providing feedback from your experience.
-
-There are a few things we would like testers to consider/look for:
-
--   Bugs
--   Things you find boring/tedious
--   Things that need small optimizations, such as advancement text and textures.
 
 # Setup
 
@@ -72,6 +60,17 @@ Tip: If you run into issues, verify that you are using the right Minecraft and F
 4. Open the CurseForge App and you should see the modpack. If you already had CurseForge App open, restart it.
 
 You're done!
+
+## Testing
+
+If you would like to help test the modpack, you're very welcome to do so.
+The best way you can test is by playing the modpack, reporting bugs and providing feedback from your experience.
+
+There are a few things we would like testers to consider/look for:
+
+-   Bugs
+-   Things you find boring/tedious
+-   Things that need small optimizations, such as advancement text and textures.
 
 # Server Automation
 
