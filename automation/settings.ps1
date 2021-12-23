@@ -9,24 +9,24 @@ $InstanceRoot = ("$PSScriptRoot/.." | Resolve-Path)
 #  CURSEFORGE ACCOUNT SETTINGS
 # =====================================================================//
 
-$CURSEFORGE_USER = "NillerMedDild"
+$CURSEFORGE_USER = "advtech"
 
 # For details see: https://www.curseforge.com/account/api-tokens
 # Defined in secrets.ps1 
 # $CURSEFORGE_TOKEN = 
 
 # ProjectID can be found on the modpack's Curseforge Projects page, under "About This Project"
-$CURSEFORGE_PROJECT_ID = 000000
+$CURSEFORGE_PROJECT_ID = 559695
 
 # =====================================================================//
 #  MAIN MODPACK SETTINGS
 # =====================================================================//
 
 # This is the modpack name as seen in it's CurseForge url: https://www.curseforge.com/minecraft/modpacks/[MODPACK_NAME_WITHOUT_SPACE]
-$MODPACK_NAME = "MODPACK_NAME_WITHOUT_SPACE"
+$MODPACK_NAME = "starry-tech"
 
 # Name of the Modpack in the ZIP File
-$CLIENT_NAME = "MODPACK_NAME_WITHOUT_SPACE"
+$CLIENT_NAME = "starry-tech"
 
 # Version Of The Modpack
 $MODPACK_VERSION = "0.1.0"

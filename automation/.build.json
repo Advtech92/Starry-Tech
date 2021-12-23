@@ -1,7 +1,7 @@
 {
-    "packAuthor": "NillerMedDild",
-    "minecraftVersion": "1.18.0",
+    "packAuthor": "advtech",
+    "minecraftVersion": "1.16.5",
     "modLoader": "forge",
-    "modLoaderVersion": "38.0.0",
+    "modLoaderVersion": "36.21.2",
     "includes": ["config", "defaultconfigs", "kubejs", "packmenu", "patchouli_books"]
 }
