@@ -158,7 +158,7 @@ $ServerSetupConfigPath = "$InstanceRoot/server_files/server-setup-config.yaml"
 # A continuous line of the folders and files (with extensions) to zip into Server Files.
 # Default: @("mods", "config")
 # Deprecated, everything in the server_files folder is zipped
-$CONTENTS_TO_ZIP = @()
+$CONTENTS_TO_ZIP = @("mods","config")
 
 # =====================================================================//
 #  Operating System
