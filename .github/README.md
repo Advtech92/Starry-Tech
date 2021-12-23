@@ -1,6 +1,6 @@
 # Starry Tech
 
-This is the official repository and issue-tracker for the modpack Starry TEch, for Minecraft 1.16.5
+This is the official repository and issue-tracker for the modpack Starry Tech, for Minecraft 1.16.5
 
 ### Table of Contents
 
