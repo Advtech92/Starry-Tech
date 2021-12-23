@@ -29,11 +29,11 @@ $MODPACK_NAME = "starry-tech"
 $CLIENT_NAME = "starry-tech"
 
 # Version Of The Modpack
-$MODPACK_VERSION = "0.1.0"
+$MODPACK_VERSION = "0.1.1"
 
 # Last Version Of The Modpack
 # Needed For Changelog Parsing
-$LAST_MODPACK_VERSION = $null
+$LAST_MODPACK_VERSION = "0.1.0"
 
 # =====================================================================//
 #  CHANGELOG SETTINGS
@@ -45,7 +45,7 @@ $CLIENT_CHANGELOG_TYPE = "markdown"
 
 # Changelog
 # Must be a single string.
-$CLIENT_CHANGELOG = "The Changelog is currently being written, it should be done soon."
+$CLIENT_CHANGELOG = "Small bugfixes."
 
 # =====================================================================//
 #  CURSEFORGE PROJECT SETTINGS
@@ -226,7 +226,7 @@ $CLIENT_ZIP_NAME = "$CLIENT_NAME-$MODPACK_VERSION"
 $LAST_MODPACK_ZIP_NAME = "$CLIENT_NAME-$LAST_MODPACK_VERSION"
 
 # Default: "$CLIENT_NAME $MODPACK_VERSION"
-$CLIENT_FILE_DISPLAY_NAME = "MODPACK_NAME_WITH_SPACE $MODPACK_VERSION"
+$CLIENT_FILE_DISPLAY_NAME = "$CLIENT_NAME $MODPACK_VERSION"
 
 # Can be "markdown", "text" or "html"
 # Default: $CLIENT_CHANGELOG_TYPE
@@ -244,7 +244,7 @@ $SERVER_RELEASE_TYPE = $CLIENT_RELEASE_TYPE
 $SERVER_ZIP_NAME = "$CLIENT_NAME`Server-$MODPACK_VERSION"
 
 # Default: $SERVER_FILENAME
-$SERVER_FILE_DISPLAY_NAME = "MODPACK_NAME_WITH_SPACE Server $MODPACK_VERSION"
+$SERVER_FILE_DISPLAY_NAME = "$CLIENT_NAME Server $MODPACK_VERSION"
 
 # Path to the ModListCreators output file
 $ModlistPath = "$InstanceRoot/changelogs/modlist_$MODPACK_VERSION.md"
