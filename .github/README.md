@@ -1,6 +1,6 @@
-# MODPACK_NAME_WITH_SPACE
+# Starry Tech
 
-This is the official repository and issue-tracker for the modpack MODPACK_NAME_WITH_SPACE, for Minecraft 1.16.5
+This is the official repository and issue-tracker for the modpack Starry TEch, for Minecraft 1.16.5
 
 ### Table of Contents
 
