@@ -1,4 +1,4 @@
-## starry-tech - 0.1.1
+## starry-tech - 0.1.2
 - [AI-Improvements-1.16.5-0.4.0.jar](https://www.curseforge.com/minecraft/mc-mods/ai-improvements/files/3533942) (by [QueenOfMissiles](https://www.curseforge.com/members/queenofmissiles/projects))
 - [aiotbotania-1.16.5-1.8.4.jar](https://www.curseforge.com/minecraft/mc-mods/aiot-botania/files/3507609) (by [MelanX](https://www.curseforge.com/members/melanx/projects))
 - [AkashicTome-1.4-16.jar](https://www.curseforge.com/minecraft/mc-mods/akashic-tome/files/3190372) (by [Vazkii](https://www.curseforge.com/members/vazkii/projects))
