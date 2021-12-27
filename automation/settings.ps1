@@ -29,11 +29,11 @@ $MODPACK_NAME = "starry-tech"
 $CLIENT_NAME = "starry-tech"
 
 # Version Of The Modpack
-$MODPACK_VERSION = "0.1.1"
+$MODPACK_VERSION = "0.1.2"
 
 # Last Version Of The Modpack
 # Needed For Changelog Parsing
-$LAST_MODPACK_VERSION = "0.1.0"
+$LAST_MODPACK_VERSION = "0.1.1"
 
 # =====================================================================//
 #  CHANGELOG SETTINGS
@@ -45,7 +45,7 @@ $CLIENT_CHANGELOG_TYPE = "markdown"
 
 # Changelog
 # Must be a single string.
-$CLIENT_CHANGELOG = "Small bugfixes."
+$CLIENT_CHANGELOG = "Patches"
 
 # =====================================================================//
 #  CURSEFORGE PROJECT SETTINGS
