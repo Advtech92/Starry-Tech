@@ -29,11 +29,11 @@ $MODPACK_NAME = "starry-tech"
 $CLIENT_NAME = "starry-tech"
 
 # Version Of The Modpack
-$MODPACK_VERSION = "0.1.4"
+$MODPACK_VERSION = "0.1.6"
 
 # Last Version Of The Modpack
 # Needed For Changelog Parsing
-$LAST_MODPACK_VERSION = "0.1.3"
+$LAST_MODPACK_VERSION = "0.1.5"
 
 $FORGE_VERSION = 36.2.21
 
