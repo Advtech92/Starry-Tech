@@ -4400,7 +4400,7 @@
       "installedTargets": null
     },
     {
-      "addonID": 290209,
+      "addonID": 399022,
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3556991,
@@ -4433,10 +4433,62 @@
             "fileId": 3556991
           },
           {
-            "id": 80513081,
-            "addonId": 245211,
-            "type": 2,
-            "fileId": 3556991
+            "gameVersionPadded": "0000000001.0000000016.0000000002",
+            "gameVersion": "1.16.2",
+            "gameVersionReleaseDate": "2020-08-11T16:42:21.863Z",
+            "gameVersionName": "1.16.2",
+            "gameVersionTypeId": 70886
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2117081,
+        "projectId": 399022,
+        "packageFingerprintId": 581534932,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionMappingId": 2631374,
+        "gameVersionId": 4458,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "SpawnerFix-1.16.2-1.0.0.2.jar"
+      },
+      "dateInstalled": "2021-12-23T16:41:30.7730808Z",
+      "dateUpdated": "2021-12-23T16:41:30.7760799Z",
+      "dateLastUpdateAttempted": "2021-12-23T16:41:30.7760799Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": true,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 264231,
+      "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
+      "installedFile": {
+        "id": 3441117,
+        "displayName": "iceandfire-2.1.9-1.16.5",
+        "fileName": "iceandfire-2.1.9-1.16.5.jar",
+        "fileDate": "2021-08-27T19:35:10.733Z",
+        "fileLength": 21314646,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3441/117/iceandfire-2.1.9-1.16.5.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 72437320,
+            "addonId": 331936,
+            "type": 3,
+            "fileId": 3441117
           }
         ],
         "isAvailable": true,
@@ -4658,7 +4710,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 352039,
+=======
+      "addonID": 416294,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3182364,
@@ -4807,7 +4863,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 364852,
+=======
+      "addonID": 410168,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3263830,
@@ -4904,7 +4964,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 261251,
+=======
+      "addonID": 456956,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3430455,
@@ -4996,7 +5060,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 271835,
+=======
+      "addonID": 243076,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3555668,
@@ -5119,7 +5187,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 351491,
+=======
+      "addonID": 416306,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3328131,
@@ -5246,7 +5318,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 466792,
+=======
+      "addonID": 265917,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3494705,
@@ -5357,7 +5433,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 421694,
+=======
+      "addonID": 452515,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3573381,
@@ -5468,7 +5548,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 450659,
+=======
+      "addonID": 353928,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3425477,
@@ -5588,7 +5672,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 225643,
+=======
+      "addonID": 309927,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3551083,
@@ -5723,7 +5811,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 289712,
+=======
+      "addonID": 260912,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3519471,
@@ -5848,7 +5940,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 222880,
+=======
+      "addonID": 231951,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3556953,
@@ -5977,7 +6073,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 404465,
+=======
+      "addonID": 324973,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3553840,
@@ -6106,7 +6206,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 345425,
+=======
+      "addonID": 239197,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3577010,
@@ -6217,7 +6321,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 268560,
+=======
+      "addonID": 310494,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3577006,
@@ -6430,7 +6538,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 404468,
+=======
+      "addonID": 233071,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3535953,
@@ -6541,7 +6653,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 268566,
+=======
+      "addonID": 238086,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3577008,
@@ -6652,7 +6768,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 268567,
+=======
+      "addonID": 301034,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3577009,
@@ -6763,7 +6883,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 69162,
+=======
+      "addonID": 247007,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3556973,
@@ -6880,7 +7004,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 245174,
+=======
+      "addonID": 340583,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3361748,
@@ -6989,7 +7117,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 69163,
+=======
+      "addonID": 399630,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3556990,
@@ -7112,7 +7244,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 300331,
+=======
+      "addonID": 398521,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3564151,
@@ -7222,7 +7358,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 250763,
+=======
+      "addonID": 243121,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3556999,
@@ -7337,7 +7477,11 @@
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
+<<<<<<< Updated upstream
       "isModified": false,
+=======
+      "isModified": true,
+>>>>>>> Stashed changes
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -7345,6 +7489,7 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 382216,
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
@@ -7359,6 +7504,47 @@
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
+=======
+      "addonID": 266515,
+      "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
+      "installedFile": {
+        "id": 3446262,
+        "displayName": "industrial-foregoing-1.16.5-3.2.14.6-14.jar",
+        "fileName": "industrial-foregoing-1.16.5-3.2.14.6-14.jar",
+        "fileDate": "2021-09-01T18:19:44.403Z",
+        "fileLength": 3582355,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3446/262/industrial-foregoing-1.16.5-3.2.14.6-14.jar",
+        "isAlternate": false,
+        "alternateFileId": 3446263,
+        "dependencies": [
+          {
+            "id": 73112232,
+            "addonId": 309927,
+            "type": 2,
+            "fileId": 3446262
+          },
+          {
+            "id": 73112234,
+            "addonId": 306770,
+            "type": 3,
+            "fileId": 3446262
+          },
+          {
+            "id": 73112235,
+            "addonId": 287342,
+            "type": 3,
+            "fileId": 3446262
+          },
+          {
+            "id": 73112233,
+            "addonId": 238222,
+            "type": 2,
+            "fileId": 3446262
+          }
+        ],
+>>>>>>> Stashed changes
         "isAvailable": true,
         "modules": [
           {
@@ -7461,7 +7647,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 245755,
+=======
+      "addonID": 250363,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3515707,
@@ -7571,7 +7761,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 231275,
+=======
+      "addonID": 301051,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3222705,
@@ -7679,7 +7873,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 421770,
+=======
+      "addonID": 542235,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3462644,
@@ -7898,7 +8096,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 283644,
+=======
+      "addonID": 359540,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3536806,
@@ -8002,7 +8204,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 486392,
+=======
+      "addonID": 313866,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3535459,
@@ -8112,7 +8318,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 245211,
+=======
+      "addonID": 254268,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3319255,
@@ -8229,7 +8439,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 347706,
+=======
+      "addonID": 419699,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3556993,
@@ -8352,7 +8566,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 358304,
+=======
+      "addonID": 233105,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3497459,
@@ -8430,7 +8648,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 248020,
+=======
+      "addonID": 426386,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3285556,
@@ -8593,7 +8815,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 238551,
+=======
+      "addonID": 411357,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3289916,
@@ -8697,7 +8923,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 228525,
+=======
+      "addonID": 360673,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3474499,
@@ -8795,7 +9025,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 241895,
+=======
+      "addonID": 55438,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3222119,
@@ -8895,7 +9129,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 490893,
+=======
+      "addonID": 289380,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3368058,
@@ -8993,7 +9231,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 384508,
+=======
+      "addonID": 410811,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3485315,
@@ -9109,6 +9351,7 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 394535,
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
@@ -9117,6 +9360,16 @@
         "fileName": "trashcans-1.0.11-mc1.16.jar",
         "fileDate": "2021-12-13T21:16:51.93Z",
         "fileLength": 153121,
+=======
+      "addonID": 513857,
+      "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
+      "installedFile": {
+        "id": 3556246,
+        "displayName": "oauth-1.1.5-1.16.jar",
+        "fileName": "oauth-1.1.5-1.16.jar",
+        "fileDate": "2021-12-09T16:25:01.863Z",
+        "fileLength": 87312,
+>>>>>>> Stashed changes
         "releaseType": 1,
         "fileStatus": 4,
         "downloadUrl": "https://edge.forgecdn.net/files/3565/581/trashcans-1.0.11-mc1.16.jar",
@@ -9272,7 +9525,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 250832,
+=======
+      "addonID": 224218,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3238352,
@@ -9392,7 +9649,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 298744,
+=======
+      "addonID": 250398,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3488829,
@@ -9496,7 +9757,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 298187,
+=======
+      "addonID": 504395,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3498508,
@@ -9607,7 +9872,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 326041,
+=======
+      "addonID": 438116,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3556984,
@@ -9724,7 +9993,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 314904,
+=======
+      "addonID": 224791,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3482306,
@@ -9814,7 +10087,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 363363,
+=======
+      "addonID": 389665,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3506112,
@@ -9918,7 +10195,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 421850,
+=======
+      "addonID": 307788,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3494919,
@@ -10032,7 +10313,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 314906,
+=======
+      "addonID": 240950,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3538223,
@@ -10185,7 +10470,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 350006,
+=======
+      "addonID": 231484,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3556995,
@@ -10308,7 +10597,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 264231,
+=======
+      "addonID": 268250,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3441117,
@@ -10441,7 +10734,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 404038,
+=======
+      "addonID": 239286,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3242497,
@@ -10550,7 +10847,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 416294,
+=======
+      "addonID": 264353,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3525704,
@@ -10708,7 +11009,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 410168,
+=======
+      "addonID": 361276,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3567471,
@@ -10813,7 +11118,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 243076,
+=======
+      "addonID": 445385,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3527504,
@@ -10923,7 +11232,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 265917,
+=======
+      "addonID": 362393,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3202331,
@@ -11028,7 +11341,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 452515,
+=======
+      "addonID": 418651,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3282874,
@@ -11159,7 +11476,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 309927,
+=======
+      "addonID": 413083,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3456953,
@@ -11289,7 +11610,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 260912,
+=======
+      "addonID": 406959,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3557001,
@@ -11418,7 +11743,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 324973,
+=======
+      "addonID": 499980,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3576775,
@@ -11539,7 +11868,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 233071,
+=======
+      "addonID": 238747,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3330406,
@@ -11623,7 +11956,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 238086,
+=======
+      "addonID": 351264,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3552913,
@@ -11796,7 +12133,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 340583,
+=======
+      "addonID": 288885,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3307879,
@@ -11929,7 +12270,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 399630,
+=======
+      "addonID": 395272,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3539648,
@@ -12074,7 +12419,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 398521,
+=======
+      "addonID": 247111,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3573686,
@@ -12196,7 +12545,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 266515,
+=======
+      "addonID": 296686,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3446262,
@@ -12331,7 +12684,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 250363,
+=======
+      "addonID": 286660,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3326041,
@@ -12423,7 +12780,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 542235,
+=======
+      "addonID": 344036,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3530932,
@@ -12570,7 +12931,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 359540,
+=======
+      "addonID": 404757,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3182349,
@@ -12682,7 +13047,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 313866,
+=======
+      "addonID": 484967,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3525482,
@@ -12805,7 +13174,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 254268,
+=======
+      "addonID": 230976,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3433163,
@@ -12903,7 +13276,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 233105,
+=======
+      "addonID": 420913,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3556983,
@@ -13008,7 +13385,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 426386,
+=======
+      "addonID": 313970,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3526532,
@@ -13124,7 +13505,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 411357,
+=======
+      "addonID": 309516,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3286318,
@@ -13223,7 +13608,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 360673,
+=======
+      "addonID": 238222,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3546287,
@@ -13395,7 +13784,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 55438,
+=======
+      "addonID": 347954,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3346467,
@@ -13552,7 +13945,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 513857,
+=======
+      "addonID": 228756,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3556246,
@@ -13690,7 +14087,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 224218,
+=======
+      "addonID": 267193,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3229196,
@@ -13802,7 +14203,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 504395,
+=======
+      "addonID": 448233,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3395248,
@@ -13919,7 +14324,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 438116,
+=======
+      "addonID": 363569,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3394922,
@@ -14025,7 +14434,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 224791,
+=======
+      "addonID": 366916,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3568763,
@@ -14156,7 +14569,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 389665,
+=======
+      "addonID": 454372,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3344719,
@@ -14271,7 +14688,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 307788,
+=======
+      "addonID": 439890,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3501351,
@@ -14382,7 +14803,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 240950,
+=======
+      "addonID": 232131,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3556986,
@@ -14505,7 +14930,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 231484,
+=======
+      "addonID": 306770,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3445172,
@@ -14620,7 +15049,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 264353,
+=======
+      "addonID": 291737,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3103028,
@@ -14720,7 +15153,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 445385,
+=======
+      "addonID": 245506,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3349970,
@@ -14939,7 +15376,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 418651,
+=======
+      "addonID": 284497,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3446472,
@@ -15042,7 +15483,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 413083,
+=======
+      "addonID": 454382,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3461986,
@@ -15159,7 +15604,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 406959,
+=======
+      "addonID": 60028,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3555670,
@@ -15282,7 +15731,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 395272,
+=======
+      "addonID": 299540,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3100603,
@@ -15396,7 +15849,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 288885,
+=======
+      "addonID": 510089,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3566919,
@@ -15513,7 +15970,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 247111,
+=======
+      "addonID": 355248,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3555274,
@@ -15618,7 +16079,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 296686,
+=======
+      "addonID": 71738,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3518678,
@@ -15728,7 +16193,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 420913,
+=======
+      "addonID": 378646,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3224252,
@@ -15872,7 +16341,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 230976,
+=======
+      "addonID": 246640,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3052146,
@@ -16004,7 +16477,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 313970,
+=======
+      "addonID": 351914,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3567270,
@@ -16151,7 +16628,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 238222,
+=======
+      "addonID": 400933,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3564654,
@@ -16243,7 +16724,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 228756,
+=======
+      "addonID": 417645,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3543538,
@@ -16341,7 +16826,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 347954,
+=======
+      "addonID": 426558,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3232534,
@@ -16425,7 +16914,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 363569,
+=======
+      "addonID": 531834,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3565137,
@@ -16529,7 +17022,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 439890,
+=======
+      "addonID": 316833,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3567777,
@@ -16676,7 +17173,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 454372,
+=======
+      "addonID": 242195,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3543827,
@@ -16810,7 +17311,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 306770,
+=======
+      "addonID": 493960,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3459118,
@@ -16928,7 +17433,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 245506,
+=======
+      "addonID": 412082,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3567548,
@@ -17085,7 +17594,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 291737,
+=======
+      "addonID": 442719,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3556270,
@@ -17146,7 +17659,103 @@
           },
           {
             "foldername": "pack.mcmeta",
+<<<<<<< Updated upstream
             "fingerprint": 2363780819,
+=======
+            "fingerprint": 532340890,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "abnormals_delight.refmap.json",
+            "fingerprint": 4004558447,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2463339563,
+        "gameVersion": [
+          "1.16.5",
+          "Forge"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000016.0000000005",
+            "gameVersion": "1.16.5",
+            "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+            "gameVersionName": "1.16.5",
+            "gameVersionTypeId": 70886
+          },
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Forge",
+            "gameVersionTypeId": 68441
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2613313,
+        "projectId": 442719,
+        "packageFingerprintId": 800127841,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameVersionMappingId": 3527872,
+        "gameVersionId": 7498,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "abnormals_delight-1.16.5-1.2.1.jar"
+      },
+      "dateInstalled": "2021-12-23T16:41:37.0501078Z",
+      "dateUpdated": "2021-12-23T16:41:37.0541181Z",
+      "dateLastUpdateAttempted": "2021-12-23T16:41:37.0541181Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": true,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 393149,
+      "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
+      "installedFile": {
+        "id": 3348676,
+        "displayName": "Runelic-1.16.5-7.0.2.jar",
+        "fileName": "Runelic-1.16.5-7.0.2.jar",
+        "fileDate": "2021-06-12T02:52:46.517Z",
+        "fileLength": 11267,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3348/676/Runelic-1.16.5-7.0.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 3348677,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1265235046,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1372029690,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 3118337032,
+>>>>>>> Stashed changes
             "type": 3,
             "invalidFingerprint": false
           },
@@ -17208,7 +17817,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 454382,
+=======
+      "addonID": 342466,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3559399,
@@ -17319,7 +17932,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 284497,
+=======
+      "addonID": 382016,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3538298,
@@ -17424,7 +18041,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 60028,
+=======
+      "addonID": 282313,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3454318,
@@ -17522,7 +18143,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 299540,
+=======
+      "addonID": 362528,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3531342,
@@ -17627,7 +18252,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 510089,
+=======
+      "addonID": 465575,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3476138,
@@ -17766,7 +18395,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 378646,
+=======
+      "addonID": 271740,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3565136,
@@ -17805,6 +18438,73 @@
             "fingerprint": 828902329,
             "type": 3,
             "invalidFingerprint": false
+<<<<<<< Updated upstream
+=======
+          }
+        ],
+        "packageFingerprint": 4152080730,
+        "gameVersion": [
+          "1.16.5"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000016.0000000005",
+            "gameVersion": "1.16.5",
+            "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+            "gameVersionName": "1.16.5",
+            "gameVersionTypeId": 70886
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2622010,
+        "projectId": 271740,
+        "packageFingerprintId": 804387106,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionMappingId": 3546296,
+        "gameVersionId": 4458,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "ToastControl-1.16.5-4.4.0.jar"
+      },
+      "dateInstalled": "2021-12-23T16:41:34.903078Z",
+      "dateUpdated": "2021-12-23T16:41:34.9060793Z",
+      "dateLastUpdateAttempted": "2021-12-23T16:41:34.9060793Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": true,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 429371,
+      "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
+      "installedFile": {
+        "id": 3407451,
+        "displayName": "kubejs-create-1605.1.2-build.7.jar",
+        "fileName": "kubejs-create-1605.1.2-build.7.jar",
+        "fileDate": "2021-07-31T13:47:40.073Z",
+        "fileLength": 10141,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3407/451/kubejs-create-1605.1.2-build.7.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 70235224,
+            "addonId": 238086,
+            "type": 3,
+            "fileId": 3407451
+>>>>>>> Stashed changes
           },
           {
             "foldername": "doorslogo.png",
@@ -17870,7 +18570,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 246640,
+=======
+      "addonID": 250577,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3562127,
@@ -17975,7 +18679,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 351914,
+=======
+      "addonID": 272302,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3456505,
@@ -18077,7 +18785,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 400933,
+=======
+      "addonID": 287342,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3565140,
@@ -18181,7 +18893,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 531834,
+=======
+      "addonID": 232758,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3487757,
@@ -18292,7 +19008,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 242195,
+=======
+      "addonID": 60089,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3283227,
@@ -18403,7 +19123,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 316833,
+=======
+      "addonID": 223852,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3333962,
@@ -18501,7 +19225,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 393149,
+=======
+      "addonID": 314645,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3348676,
@@ -18593,7 +19321,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 342466,
+=======
+      "addonID": 256717,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3556987,
@@ -18716,7 +19448,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 382016,
+=======
+      "addonID": 428277,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3567243,
@@ -18839,7 +19575,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 465575,
+=======
+      "addonID": 287357,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3412586,
@@ -18978,7 +19718,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 429371,
+=======
+      "addonID": 432182,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3407451,
@@ -19089,7 +19833,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 271740,
+=======
+      "addonID": 451682,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3556882,
@@ -19180,7 +19928,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 250577,
+=======
+      "addonID": 461710,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3190372,
@@ -19301,7 +20053,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 287342,
+=======
+      "addonID": 502372,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3346366,
@@ -19433,7 +20189,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 256717,
+=======
+      "addonID": 377051,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3481298,
@@ -19519,7 +20279,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 314645,
+=======
+      "addonID": 272335,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3455488,
@@ -19628,7 +20392,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 428277,
+=======
+      "addonID": 331936,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3451660,
@@ -19755,7 +20523,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 461710,
+=======
+      "addonID": 383182,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3348960,
@@ -19873,7 +20645,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 502372,
+=======
+      "addonID": 242818,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3565139,
@@ -19977,7 +20753,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 272335,
+=======
+      "addonID": 235577,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3507886,
@@ -20069,7 +20849,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 377051,
+=======
+      "addonID": 32274,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3183601,
@@ -20162,7 +20946,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 331936,
+=======
+      "addonID": 453925,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3441028,
@@ -20288,7 +21076,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 242818,
+=======
+      "addonID": 252848,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3553742,
@@ -20402,7 +21194,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 383182,
+=======
+      "addonID": 438332,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3539519,
@@ -20519,7 +21315,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 32274,
+=======
+      "addonID": 323596,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3397059,
@@ -20603,11 +21403,67 @@
             "invalidFingerprint": false
           },
           {
+<<<<<<< Updated upstream
             "foldername": "render-event-transformer.js",
             "fingerprint": 2784044465,
             "type": 3,
             "invalidFingerprint": false
           },
+=======
+            "gameVersionPadded": "0000000001.0000000016.0000000004",
+            "gameVersion": "1.16.4",
+            "gameVersionReleaseDate": "2020-11-02T18:40:51.49Z",
+            "gameVersionName": "1.16.4",
+            "gameVersionTypeId": 70886
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2322450,
+        "projectId": 323596,
+        "packageFingerprintId": 667508453,
+        "gameVersionDateReleased": "2020-09-10T14:44:20.443Z",
+        "gameVersionMappingId": 2964228,
+        "gameVersionId": 8056,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "rats-7.2.0-1.16.5.jar"
+      },
+      "dateInstalled": "2021-12-23T16:42:16.3868847Z",
+      "dateUpdated": "2021-12-23T16:42:16.392887Z",
+      "dateLastUpdateAttempted": "2021-12-23T16:42:16.392887Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": true,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 241160,
+      "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
+      "installedFile": {
+        "id": 3098229,
+        "displayName": "NetherPortalFix_1.16.3-7.2.1.jar",
+        "fileName": "NetherPortalFix_1.16.3-7.2.1.jar",
+        "fileDate": "2020-10-31T19:12:03.537Z",
+        "fileLength": 110010,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3098/229/NetherPortalFix_1.16.3-7.2.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+>>>>>>> Stashed changes
           {
             "foldername": "info",
             "fingerprint": 614130607,
@@ -20714,7 +21570,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 252848,
+=======
+      "addonID": 445025,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3382150,
@@ -20812,7 +21672,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 453925,
+=======
+      "addonID": 241721,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3565138,
@@ -20959,7 +21823,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 445025,
+=======
+      "addonID": 368718,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3255801,
@@ -21065,7 +21933,11 @@
       "installedTargets": null
     },
     {
+<<<<<<< Updated upstream
       "addonID": 241721,
+=======
+      "addonID": 428877,
+>>>>>>> Stashed changes
       "gameInstanceID": "ad46f31b-5980-48d5-84ed-4e84f6847c14",
       "installedFile": {
         "id": 3333980,
