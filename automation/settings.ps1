@@ -23,17 +23,17 @@ $CURSEFORGE_PROJECT_ID = 559695
 # =====================================================================//
 
 # This is the modpack name as seen in it's CurseForge url: https://www.curseforge.com/minecraft/modpacks/[MODPACK_NAME_WITHOUT_SPACE]
-$MODPACK_NAME = "starry-tech"
+$MODPACK_NAME = "Starry-Tech"
 
 # Name of the Modpack in the ZIP File
-$CLIENT_NAME = "starry-tech"
+$CLIENT_NAME = "Starry-Tech"
 
 # Version Of The Modpack
-$MODPACK_VERSION = "0.1.6"
+$MODPACK_VERSION = "0.1.7"
 
 # Last Version Of The Modpack
 # Needed For Changelog Parsing
-$LAST_MODPACK_VERSION = "0.1.5"
+$LAST_MODPACK_VERSION = "0.1.6"
 
 $FORGE_VERSION = 36.2.21
 
