@@ -47,7 +47,7 @@ $CLIENT_CHANGELOG_TYPE = "markdown"
 
 # Changelog
 # Must be a single string.
-$CLIENT_CHANGELOG = "Added Quests and Compact Machines"
+$CLIENT_CHANGELOG = "Added FTB Essentials, Cleaned up Configs"
 
 # =====================================================================//
 #  CURSEFORGE PROJECT SETTINGS
