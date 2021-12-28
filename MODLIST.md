@@ -1,4 +1,4 @@
-## starry-tech - 0.1.3
+## Starry-Tech - 0.1.5
 - [AI-Improvements-1.16.5-0.4.0.jar](https://www.curseforge.com/minecraft/mc-mods/ai-improvements/files/3533942) (by [QueenOfMissiles](https://www.curseforge.com/members/queenofmissiles/projects))
 - [aiotbotania-1.16.5-1.8.4.jar](https://www.curseforge.com/minecraft/mc-mods/aiot-botania/files/3507609) (by [MelanX](https://www.curseforge.com/members/melanx/projects))
 - [AkashicTome-1.4-16.jar](https://www.curseforge.com/minecraft/mc-mods/akashic-tome/files/3190372) (by [Vazkii](https://www.curseforge.com/members/vazkii/projects))
@@ -26,6 +26,8 @@
 - [cofh_core-1.16.5-1.4.0.6.jar](https://www.curseforge.com/minecraft/mc-mods/cofh-core/files/3556973) (by [TeamCoFH](https://www.curseforge.com/members/teamcofh/projects))
 - [CodeChicken Lib 1.16.5-4.0.5.438-universal](https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8/files/3553742) (by [covers1624](https://www.curseforge.com/members/covers1624/projects))
 - [comforts-forge-1.16.5-4.0.1.3.jar](https://www.curseforge.com/minecraft/mc-mods/comforts/files/3438373) (by [TheIllusiveC4](https://www.curseforge.com/members/theillusivec4/projects))
+- [compactmachines-4.0.0-beta.2.jar](https://www.curseforge.com/minecraft/mc-mods/compact-machines/files/3229196) (by [davenonymous](https://www.curseforge.com/members/davenonymous/projects))
+- [connectedglass-1.1.1-mc1.16](https://www.curseforge.com/minecraft/mc-mods/connected-glass/files/3514561) (by [SuperMartijn642](https://www.curseforge.com/members/supermartijn642/projects))
 - [CookingForBlockheads_1.16.5-9.3.4.jar](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads/files/3445172) (by [BlayTheNinth](https://www.curseforge.com/members/blaytheninth/projects))
 - [CraftingTweaks_1.16.5-12.2.1.jar](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks/files/3330406) (by [BlayTheNinth](https://www.curseforge.com/members/blaytheninth/projects))
 - [Create 1.16.5 v0.3.2g](https://www.curseforge.com/minecraft/mc-mods/create/files/3536025) (by [simibubi](https://www.curseforge.com/members/simibubi/projects))
@@ -56,6 +58,7 @@
 - [ftb-backups-2.1.2.2.jar](https://www.curseforge.com/minecraft/mc-mods/ftb-backups-forge/files/3482306) (by [FTB](https://www.curseforge.com/members/ftb/projects))
 - [ftb-chunks-forge-1605.3.2-build.83.jar](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge/files/3538223) (by [FTB](https://www.curseforge.com/members/ftb/projects))
 - [ftb-library-forge-1605.3.4-build.90.jar](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge/files/3553840) (by [FTB](https://www.curseforge.com/members/ftb/projects))
+- [ftb-quests-forge-1605.3.6-build.76.jar](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge/files/3575814) (by [FTB](https://www.curseforge.com/members/ftb/projects))
 - [ftb-teams-forge-1605.2.3-build.40.jar](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge/files/3535953) (by [FTB](https://www.curseforge.com/members/ftb/projects))
 - [Farmer's Delight 0.5.4 - 1.16.5](https://www.curseforge.com/minecraft/mc-mods/farmers-delight/files/3573686) (by [vectorwing](https://www.curseforge.com/members/vectorwing/projects))
 - [FastLeafDecay-v25.jar](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay/files/3052146) (by [olafskiii](https://www.curseforge.com/members/olafskiii/projects))
@@ -75,6 +78,7 @@
 - [industrial-foregoing-1.16.5-3.2.14.6-14.jar](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing/files/3446262) (by [Buuz135](https://www.curseforge.com/members/buuz135/projects))
 - [ironchest-1.16.5-11.2.21.jar](https://www.curseforge.com/minecraft/mc-mods/iron-chests/files/3543538) (by [ProgWML6](https://www.curseforge.com/members/progwml6/projects))
 - [IronJetpacks-1.16.5-4.2.3.jar](https://www.curseforge.com/minecraft/mc-mods/iron-jetpacks/files/3538298) (by [BlakeBr0](https://www.curseforge.com/members/blakebr0/projects))
+- [item-filters-forge-1605.2.5-build.9.jar](https://www.curseforge.com/minecraft/mc-mods/item-filters-forge/files/3376819) (by [LatvianModder](https://www.curseforge.com/members/latvianmodder/projects))
 - [jeiintegration_1.16.5-7.0.1.15](https://www.curseforge.com/minecraft/mc-mods/jei-integration/files/3202331) (by [SnowShock35](https://www.curseforge.com/members/snowshock35/projects))
 - [journeymap-1.16.5-5.7.3](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/3397059) (by [techbrew](https://www.curseforge.com/members/techbrew/projects))
 - [jei-1.16.5-7.7.1.138.jar](https://www.curseforge.com/minecraft/mc-mods/jei/files/3564654) (by [mezz](https://www.curseforge.com/members/mezz/projects))

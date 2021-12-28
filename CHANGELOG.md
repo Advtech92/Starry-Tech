@@ -2,7 +2,15 @@
 
 ## [Unreleased](https://github.com/advtech92/starry-tech/tree/HEAD)
 
-[Full Changelog](https://github.com/advtech92/starry-tech/compare/0.1.1...HEAD)
+[Full Changelog](https://github.com/advtech92/starry-tech/compare/0.1.4...HEAD)
+
+**Closed issues:**
+
+- v0.1.3 [\#2](https://github.com/Advtech92/Starry-Tech/issues/2)
+
+## [0.1.4](https://github.com/advtech92/starry-tech/tree/0.1.4) (2021-12-28)
+
+[Full Changelog](https://github.com/advtech92/starry-tech/compare/0.1.1...0.1.4)
 
 v0.1.2 [\#1](https://github.com/Advtech92/Starry-Tech/issues/1)
 
