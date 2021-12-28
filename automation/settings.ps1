@@ -29,11 +29,13 @@ $MODPACK_NAME = "starry-tech"
 $CLIENT_NAME = "starry-tech"
 
 # Version Of The Modpack
-$MODPACK_VERSION = "0.1.2"
+$MODPACK_VERSION = "0.1.4"
 
 # Last Version Of The Modpack
 # Needed For Changelog Parsing
-$LAST_MODPACK_VERSION = "0.1.1"
+$LAST_MODPACK_VERSION = "0.1.3"
+
+$FORGE_VERSION = 36.2.21
 
 # =====================================================================//
 #  CHANGELOG SETTINGS
@@ -45,7 +47,7 @@ $CLIENT_CHANGELOG_TYPE = "markdown"
 
 # Changelog
 # Must be a single string.
-$CLIENT_CHANGELOG = "Patches"
+$CLIENT_CHANGELOG = "Added Quests and Compact Machines"
 
 # =====================================================================//
 #  CURSEFORGE PROJECT SETTINGS
@@ -209,8 +211,11 @@ $ENABLE_ALWAYS_UPDATE_JARS = $false
 # See below link for info:
 # https://github.com/github-changelog-generator/github-changelog-generator
 # Default: $false
-$ENABLE_GITHUB_CHANGELOG_GENERATOR_MODULE = $true	
-
+$ENABLE_GITHUB_CHANGELOG_GENERATOR_MODULE = $true
+$GITHUB_NAME = "Advtech92"
+$GITHUB_TOKEN ="$GITHUB_Name':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"
+$GITHUB_REPOSITOTY = "Starry-Tech"
+$CHANGES_SINCE_VERSION = "0.1.0"
 
 
 # =====================================================================//
