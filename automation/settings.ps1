@@ -29,11 +29,11 @@ $MODPACK_NAME = "Starry-Tech"
 $CLIENT_NAME = "Starry-Tech"
 
 # Version Of The Modpack
-$MODPACK_VERSION = "0.1.7"
+$MODPACK_VERSION = "0.1.8"
 
 # Last Version Of The Modpack
 # Needed For Changelog Parsing
-$LAST_MODPACK_VERSION = "0.1.6"
+$LAST_MODPACK_VERSION = "0.1.7"
 
 $FORGE_VERSION = 36.2.21
 
@@ -47,7 +47,7 @@ $CLIENT_CHANGELOG_TYPE = "markdown"
 
 # Changelog
 # Must be a single string.
-$CLIENT_CHANGELOG = "Added FTB Essentials, Cleaned up Configs"
+$CLIENT_CHANGELOG = "See Changelog on https://github.com/Advtech92/Starry-Tech/blob/master/CHANGELOG.md for more details"
 
 # =====================================================================//
 #  CURSEFORGE PROJECT SETTINGS
