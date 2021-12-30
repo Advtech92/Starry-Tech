@@ -5,6 +5,7 @@
 [Full Changelog](https://github.com/Advtech92/Starry-Tech/compare/0.1.8...HEAD)
 
 v0.1.8 [\#4](https://github.com/Advtech92/Starry-Tech/issues/4)
+Version 0.1.10 [\#5](https://github.com/Advtech92/Starry-Tech/pull/5) ([Advtech92](https://github.com/Advtech92))
 
 ## [0.1.8](https://github.com/Advtech92/Starry-Tech/tree/0.1.8) (2021-12-29)
 
