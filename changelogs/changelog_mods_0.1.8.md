@@ -9,12 +9,15 @@
 * [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options)
 * [Dynamic View[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/dynamic-view)
 * [Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)
+* [Inventory Tweaks Renewed](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks-renewed)
+* [JourneyMap Integration](https://www.curseforge.com/minecraft/mc-mods/journeymap-integration)
 * [Just Enough Resources (JER)](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)
 * [Mod Name Tooltip](https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip)
 * [Polymorph (Forge)](https://www.curseforge.com/minecraft/mc-mods/polymorph)
 * [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)
 * [Storage for ComputerCraft](https://www.curseforge.com/minecraft/mc-mods/storage-for-computercraft)
 * [TrashSlot](https://www.curseforge.com/minecraft/mc-mods/trashslot)
+* [Wither Skeleton Tweaks](https://www.curseforge.com/minecraft/mc-mods/wither-skeleton-tweaks)
 * [spark](https://www.curseforge.com/minecraft/mc-mods/spark)
 
 ## Updated
