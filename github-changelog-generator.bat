@@ -1,1 +1,1 @@
-github_changelog_generator -u Advtech92 -p Starry-Tech -t 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 --since-tag 0.1.0
+github_changelog_generator -u Advtech92 -p Starry-Tech --since-tag 0.1.0
