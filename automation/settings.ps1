@@ -29,11 +29,11 @@ $MODPACK_NAME = "Starry-Tech"
 $CLIENT_NAME = "Starry-Tech"
 
 # Version Of The Modpack
-$MODPACK_VERSION = "0.1.8"
+$MODPACK_VERSION = "0.1.10"
 
 # Last Version Of The Modpack
 # Needed For Changelog Parsing
-$LAST_MODPACK_VERSION = "0.1.7"
+$LAST_MODPACK_VERSION = "0.1.9"
 
 $FORGE_VERSION = 36.2.21
 
@@ -213,7 +213,7 @@ $ENABLE_ALWAYS_UPDATE_JARS = $false
 # Default: $false
 $ENABLE_GITHUB_CHANGELOG_GENERATOR_MODULE = $true
 $GITHUB_NAME = "Advtech92"
-$GITHUB_REPOSITOTY = "Starry-Tech"
+$GITHUB_REPOSITORY = "Starry-Tech"
 $CHANGES_SINCE_VERSION = "0.1.0"
 
 

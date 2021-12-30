@@ -1,11 +1,10 @@
 # Changelog
 
-## [Unreleased](https://github.com/Advtech92/Starry-Tech/tree/HEAD)
+## [0.1.10](https://github.com/Advtech92/Starry-Tech/tree/0.1.10) (2021-12-30)
 
-[Full Changelog](https://github.com/Advtech92/Starry-Tech/compare/0.1.8...HEAD)
+[Full Changelog](https://github.com/Advtech92/Starry-Tech/compare/0.1.8...0.1.10)
 
 v0.1.8 [\#4](https://github.com/Advtech92/Starry-Tech/issues/4)
-Version 0.1.10 [\#5](https://github.com/Advtech92/Starry-Tech/pull/5) ([Advtech92](https://github.com/Advtech92))
 
 ## [0.1.8](https://github.com/Advtech92/Starry-Tech/tree/0.1.8) (2021-12-29)
 
