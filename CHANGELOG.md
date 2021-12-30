@@ -1,6 +1,6 @@
 # Changelog
 
-## [Unreleased](https://github.com/Advtech92/Starry-Tech/tree/HEAD)
+## [0.1.10](https://github.com/Advtech92/Starry-Tech/tree/HEAD)
 
 [Full Changelog](https://github.com/Advtech92/Starry-Tech/compare/0.1.8...HEAD)
 
