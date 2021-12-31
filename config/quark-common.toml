@@ -369,7 +369,7 @@
 	"Enhanced Ladders" = true
 	"Glass Shard" = true
 	"Hoe Harvesting" = true
-	"Improved Sleeping" = true
+	"Improved Sleeping" = false
 	"Infinity Bucket" = true
 	"Lava Bucket As Trash" = true
 	"Lock Rotation" = true
