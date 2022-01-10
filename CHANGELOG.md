@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.2.2](https://github.com/Advtech92/Starry-Tech/tree/0.2.2) (2022-01-01)
+
+[Full Changelog](https://github.com/Advtech92/Starry-Tech/compare/0.2.1...0.2.2)
+
 ## [0.2.1](https://github.com/Advtech92/Starry-Tech/tree/0.2.1) (2021-12-31)
 
 [Full Changelog](https://github.com/Advtech92/Starry-Tech/compare/0.2.0...0.2.1)
