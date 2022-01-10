@@ -29,11 +29,11 @@ $MODPACK_NAME = "Starry-Tech"
 $CLIENT_NAME = "Starry-Tech"
 
 # Version Of The Modpack
-$MODPACK_VERSION = "0.2.3"
+$MODPACK_VERSION = "0.2.4"
 
 # Last Version Of The Modpack
 # Needed For Changelog Parsing
-$LAST_MODPACK_VERSION = "0.2.2"
+$LAST_MODPACK_VERSION = "0.2.3"
 
 $FORGE_VERSION = 36.2.21
 
@@ -47,7 +47,7 @@ $CLIENT_CHANGELOG_TYPE = "markdown"
 
 # Changelog
 # Must be a single string.
-$CLIENT_CHANGELOG = "See Changelog on https://github.com/Advtech92/Starry-Tech/blob/master/CHANGELOG.md for more details"
+$CLIENT_CHANGELOG = "Removed Refined Curios (Missed that it wasn't supported anymore)\n"
 
 # =====================================================================//
 #  CURSEFORGE PROJECT SETTINGS
