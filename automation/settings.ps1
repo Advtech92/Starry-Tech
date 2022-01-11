@@ -47,7 +47,7 @@ $CLIENT_CHANGELOG_TYPE = "markdown"
 
 # Changelog
 # Must be a single string.
-$CLIENT_CHANGELOG = "Removed Refined Curios (Missed that it wasn't supported anymore)\n"
+$CLIENT_CHANGELOG = "Removed Refined Curios"
 
 # =====================================================================//
 #  CURSEFORGE PROJECT SETTINGS
