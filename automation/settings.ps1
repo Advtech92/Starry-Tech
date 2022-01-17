@@ -29,11 +29,11 @@ $MODPACK_NAME = "Starry-Tech"
 $CLIENT_NAME = "Starry-Tech"
 
 # Version Of The Modpack
-$MODPACK_VERSION = "0.2.4"
+$MODPACK_VERSION = "0.2.5"
 
 # Last Version Of The Modpack
 # Needed For Changelog Parsing
-$LAST_MODPACK_VERSION = "0.2.3"
+$LAST_MODPACK_VERSION = "0.2.4"
 
 $FORGE_VERSION = 36.2.21
 
@@ -47,7 +47,7 @@ $CLIENT_CHANGELOG_TYPE = "markdown"
 
 # Changelog
 # Must be a single string.
-$CLIENT_CHANGELOG = "Removed Refined Curios"
+$CLIENT_CHANGELOG = "Fixed Journymap bug, removed preformance mods by default"
 
 # =====================================================================//
 #  CURSEFORGE PROJECT SETTINGS
