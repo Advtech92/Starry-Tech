@@ -29,11 +29,11 @@ $MODPACK_NAME = "Starry-Tech"
 $CLIENT_NAME = "Starry-Tech"
 
 # Version Of The Modpack
-$MODPACK_VERSION = "0.2.7"
+$MODPACK_VERSION = "0.2.8"
 
 # Last Version Of The Modpack
 # Needed For Changelog Parsing
-$LAST_MODPACK_VERSION = "0.2.6"
+$LAST_MODPACK_VERSION = "0.2.7"
 
 $FORGE_VERSION = 36.2.21
 
@@ -47,7 +47,7 @@ $CLIENT_CHANGELOG_TYPE = "markdown"
 
 # Changelog
 # Must be a single string.
-$CLIENT_CHANGELOG = "Fixed the problems with 0.2.6 ...do not ask, we do not talk about 0.2.6... Added MouseTweaks, Advanced Rockets, Advanced Peripherals"
+$CLIENT_CHANGELOG = "Fixed the problems with 0.2.7 removing mods hopefully"
 
 # =====================================================================//
 #  CURSEFORGE PROJECT SETTINGS

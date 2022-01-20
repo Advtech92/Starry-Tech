@@ -1,32 +1,36 @@
 # Changelog
 
-## [0.2.6](https://github.com/Advtech92/Starry-tech/tree/0.2.6) (2022-01-17)
+## [0.2.8](https://github.com/Advtech92/Starry-Tech/tree/0.2.8) (2022-01-20)
 
-[Full Changelog](https://github.com/Advtech92/Starry-tech/compare/0.2.7...0.2.6)
+[Full Changelog](https://github.com/Advtech92/Starry-Tech/compare/0.2.6...0.2.8)
 
-## [0.2.7](https://github.com/Advtech92/Starry-tech/tree/0.2.7) (2022-01-17)
+## [0.2.6](https://github.com/Advtech92/Starry-Tech/tree/0.2.6) (2022-01-17)
 
-[Full Changelog](https://github.com/Advtech92/Starry-tech/compare/0.2.5...0.2.7)
+[Full Changelog](https://github.com/Advtech92/Starry-Tech/compare/0.2.7...0.2.6)
 
-## [0.2.5](https://github.com/Advtech92/Starry-tech/tree/0.2.5) (2022-01-11)
+## [0.2.7](https://github.com/Advtech92/Starry-Tech/tree/0.2.7) (2022-01-17)
 
-[Full Changelog](https://github.com/Advtech92/Starry-tech/compare/0.2.4...0.2.5)
+[Full Changelog](https://github.com/Advtech92/Starry-Tech/compare/0.2.5...0.2.7)
 
-## [0.2.4](https://github.com/Advtech92/Starry-tech/tree/0.2.4) (2022-01-10)
+## [0.2.5](https://github.com/Advtech92/Starry-Tech/tree/0.2.5) (2022-01-11)
 
-[Full Changelog](https://github.com/Advtech92/Starry-tech/compare/0.2.3...0.2.4)
+[Full Changelog](https://github.com/Advtech92/Starry-Tech/compare/0.2.4...0.2.5)
 
-## [0.2.3](https://github.com/Advtech92/Starry-tech/tree/0.2.3) (2022-01-10)
+## [0.2.4](https://github.com/Advtech92/Starry-Tech/tree/0.2.4) (2022-01-10)
 
-[Full Changelog](https://github.com/Advtech92/Starry-tech/compare/0.2.2...0.2.3)
+[Full Changelog](https://github.com/Advtech92/Starry-Tech/compare/0.2.3...0.2.4)
 
-## [0.2.2](https://github.com/Advtech92/Starry-tech/tree/0.2.2) (2022-01-01)
+## [0.2.3](https://github.com/Advtech92/Starry-Tech/tree/0.2.3) (2022-01-10)
 
-[Full Changelog](https://github.com/Advtech92/Starry-tech/compare/0.2.1...0.2.2)
+[Full Changelog](https://github.com/Advtech92/Starry-Tech/compare/0.2.2...0.2.3)
 
-## [0.2.1](https://github.com/Advtech92/Starry-tech/tree/0.2.1) (2021-12-31)
+## [0.2.2](https://github.com/Advtech92/Starry-Tech/tree/0.2.2) (2022-01-01)
 
-[Full Changelog](https://github.com/Advtech92/Starry-tech/compare/0.2.0...0.2.1)
+[Full Changelog](https://github.com/Advtech92/Starry-Tech/compare/0.2.1...0.2.2)
+
+## [0.2.1](https://github.com/Advtech92/Starry-Tech/tree/0.2.1) (2021-12-31)
+
+[Full Changelog](https://github.com/Advtech92/Starry-Tech/compare/0.2.0...0.2.1)
 
 
 
